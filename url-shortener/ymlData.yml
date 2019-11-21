@@ -1,0 +1,4 @@
+- path: /google
+  url: https://www.google.gr
+- path: /youtube
+  url: https://www.youtube.gr
