@@ -1,6 +1,6 @@
 <h1>Gophercises: Golang exercises for budding gophers</h1>
 
-Props to the gophercises website (https://gophercises.com/) for the amazing code exercises.<br><br>
+Props to the gophercises website (https://gophercises.com/) for the amazing code exercises.<br><br><br>
 
 
 <strong> Progress until now: </strong><br><br>
