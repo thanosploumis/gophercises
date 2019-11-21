@@ -2,7 +2,7 @@
 
 Props to the gophercises website (https://gophercises.com/) for the amazing code exercises.<br><br><br>
 
-<div class="Progress"><h3>Progress until now:</h3><br><br>
+<div class="Progress"><h3>Progress until now:</h3>
 <strong>Quiz Game</strong> - Create a program to run timed quizes via the command line.<br>
 <strong>URL-shortener</strong> - Code an http.Handler that forwards paths to other URLs (similar to Bitly).<br>
 <strong>Choose Your Own Adventure</strong> - Design a choose your own adventure book renderer that shows the story via a web application.<br>
